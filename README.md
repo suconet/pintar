@@ -1,0 +1,2 @@
+# pintar
+Kapan sih pintarnya
